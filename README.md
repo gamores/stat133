@@ -1,1 +1,1 @@
-# stat133
+# Stats 133 Spring 2017
